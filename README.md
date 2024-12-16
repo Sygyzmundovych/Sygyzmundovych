@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as a [Developer Advocate](https://community.sap.com/influencers/?program=devadvocates) at SAP with the main focus on Data and Analytics.
+I’m currently working as a [Developer Advocate](https://community.sap.com/influencers/?program=devadvocates) at SAP, with a main focus on Data and Analytics plus ML and AI.
 
 You can find me as well on [SAP Community](https://people.sap.com/vitaliy.rudnytskiy), [CodeProject](https://www.codeproject.com/Members/Sygyzmundovych), [DZone](https://dzone.com/users/1050565/Vitaliy_Rudnytskiy.html), and [Twitter](https://twitter.com/Sygyzmundovych).
 
