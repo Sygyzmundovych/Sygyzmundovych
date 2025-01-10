@@ -2,7 +2,7 @@
 
 I’m currently working as a [Developer Advocate](https://community.sap.com/influencers/?program=devadvocates) at SAP, with a main focus on Data and Analytics plus ML and AI.
 
-You can find me as well on [SAP Community](https://people.sap.com/vitaliy.rudnytskiy), [CodeProject](https://www.codeproject.com/Members/Sygyzmundovych), [DZone](https://dzone.com/users/1050565/Vitaliy_Rudnytskiy.html), and [Twitter](https://twitter.com/Sygyzmundovych).
+You can find me as well on [SAP Community]([https://people.sap.com/vitaliy.rudnytskiy](https://community.sap.com/t5/user/viewprofilepage/user-id/183)), [CodeProject](https://www.codeproject.com/Members/Sygyzmundovych), [DZone](https://dzone.com/users/1050565/Vitaliy_Rudnytskiy.html), and [BlueSky]([https://twitter.com/Sygyzmundovych](https://bsky.app/profile/sygyzmundovych.bsky.social)).
 
 <!--
 **Sygyzmundovych/Sygyzmundovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
